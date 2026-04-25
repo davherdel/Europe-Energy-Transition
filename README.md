@@ -129,4 +129,4 @@ The analysis culminates in a **3-dashboard interactive Tableau workbook**:
 Data Analyst transitioning from 10 years in IT management and operations, bringing a strong foundation in process thinking, stakeholder communication, and systems — now applied to data analytics, machine learning, and business-aligned data architecture.
 I build end-to-end analytical solutions — from data pipelines to dashboards — with a focus on translating data into value and decisions.
 
-📬 [LinkedIn](#) · [GitHub](#) · [Tableau Public](https://public.tableau.com/app/profile/david.hernandez6239)
+📬 [LinkedIn](https://www.linkedin.com/in/david-hernandez-cr-pt/) · [GitHub](https://github.com/davherdel) · [Tableau Public](https://public.tableau.com/app/profile/david.hernandez6239)
