@@ -1,7 +1,7 @@
 # 🔋 European Energy Transition — Decarbonization Trends & Grid Reliability
-### `Python` · `Pandas` · `Matplotlib` · `Tableau` · `Data Analytics` · `EDA` · `Data Visualization`
+### `Python` · `Pandas` · `Matplotlib` · `Tableau` · `HTML & CSS` · `Data Analytics` · `EDA` · `Data Visualization`
 
-> **End-to-end data analytics project** — from raw dataset to interactive Tableau dashboard — analyzing 25 years of electricity generation across Europe to surface insights on renewable adoption, fossil fuel dependency, and energy independence.
+> **End-to-end data analytics project** — from raw dataset to two interactive dashboards (Tableau and a custom HTML/CSS build) — analyzing 25 years of electricity generation across Europe to surface insights on renewable adoption, fossil fuel dependency, and energy independence.
 
 ---
 
@@ -9,8 +9,8 @@
 
 **David Hernandez | Data Analyst**  
 📍 Lisbon, Portugal · April 2026  
-🌐 [Live HTML Dashboard — GitHub Pages](https://davherdel.github.io/europe-energy-transition/)  
-🔗 [Interactive Dashboard — Tableau Public](#) *(link coming soon)*
+🌐 [Live HTML Dashboard — GitHub Pages](https://davherdel.github.io/europe-energy-transition/energy-dashboard.html)  
+🔗 [Interactive Dashboard — Tableau Public](https://public.tableau.com/app/profile/david.hernandez6239/viz/EuropeanEnergyTransition/Dashboard1-Overview)
 
 This project was built independently as part of a professional data analytics portfolio, applying the full analytics workflow: **data wrangling → exploratory analysis → visualization → storytelling**.
 
@@ -41,6 +41,7 @@ The goal: move beyond headline numbers and assess the **effectiveness** of the e
 | **Pandas** | Data cleaning, transformation, feature engineering |
 | **Matplotlib** | Exploratory and presentation-quality charts |
 | **Tableau Public** | Interactive 3-dashboard data product |
+| **HTML & CSS** | Custom-built web dashboard hosted on GitHub Pages |
 | **Jupyter Notebook** | Documented, reproducible analysis workflow |
 
 ---
@@ -102,16 +103,19 @@ Charts produced:
 
 ```
 ├── energy_transition_decarbonization_trends_and_grid_reliability.ipynb  # Main analysis
-├── europe_energy_transition_clean.csv       # Dataset A: Europe macro
-├── country_energy_transition_clean.csv      # Dataset B: Country-level
+├── energy-dashboard.html                     # Custom HTML/CSS dashboard (GitHub Pages)
+├── europe_energy_transition_clean.csv        # Dataset A: Europe macro
+├── country_energy_transition_clean.csv       # Dataset B: Country-level
 └── europe_yearly_full_release_long_format.csv  # Source data (Ember Energy)
 ```
 
 ---
 
-## 📈 Tableau Dashboard
+## 📈 Interactive Dashboards
 
-The analysis culminates in a **3-dashboard interactive Tableau workbook**:
+The analysis culminates in **two interactive dashboards**:
+
+### Tableau Public — 3-dashboard workbook
 
 | Dashboard | Focus |
 |---|---|
@@ -119,8 +123,12 @@ The analysis culminates in a **3-dashboard interactive Tableau workbook**:
 | **Dashboard 2 — Country Analysis** | Generation mix · Renewable & fossil rankings by country |
 | **Dashboard 3 — Deep Dive** | Case studies France & Portugal · Generation vs demand · Transition speed |
 
-🌐 **[Live HTML Dashboard](https://davherdel.github.io/europe-energy-transition/)**  
-🔗 **[View on Tableau Public](#)** *(link coming soon)*
+### Custom HTML/CSS Dashboard — built from scratch
+
+A standalone web dashboard with KPI cards, time-period filters, and interactive charts — designed, coded, and deployed independently on GitHub Pages.
+
+🌐 **[Live HTML Dashboard](https://davherdel.github.io/europe-energy-transition/energy-dashboard.html)**  
+🔗 **[View on Tableau Public](https://public.tableau.com/app/profile/david.hernandez6239/viz/EuropeanEnergyTransition/Dashboard1-Overview)**
 
 ---
 
