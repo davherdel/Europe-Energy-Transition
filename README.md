@@ -69,22 +69,46 @@ The goal: move beyond headline numbers and assess the **effectiveness** of the e
 - Engineered key metrics: `renewable_share`, `fossil_share`, `renewable_yoy_growth`
 - Exported two clean datasets: **Europe macro** and **country-level detail**
 
+The cleaned macro dataset reveals the headline story — Europe's generation mix transformation over 25 years:
+
+![European Electricity Generation Mix (2000–2025)](european_electricity_generation_mix.png)
+
 ### Section 2 — Country Analysis & Visualization
 Analyzed 10 countries selected for strategic coverage:
 
 > 🇵🇹 Portugal *(focal country)* · 🇩🇰 Denmark *(renewable leader)* · 🇫🇷 France *(nuclear pathway)* · 🇩🇪 Germany · 🇬🇧 UK · 🇮🇹 Italy · 🇳🇱 Netherlands · 🇵🇱 Poland *(fossil-heavy contrast)* · 🇪🇸 Spain · 🇧🇪 Belgium
 
-Charts produced:
-- Renewable share by country (2000–2025)
-- Fossil fuel dependency trends
-- Generation mix by country (stacked bar)
-- **Case Study — France:** low-carbon through nuclear, not renewables
-- **Case Study — Portugal:** diversified renewable-driven transition
+**Renewable adoption — trajectory and current state:**
+
+![Renewable Share by Country (2000–2025)](renewable_share_by_country.png)
+
+![Renewable Share by Country — 2025 Snapshot](renewable_share_by_country_2025.png)
+
+**Fossil fuel dependency:**
+
+![Fossil Fuel Dependency by Country](fossil_fuel_dependency_by_country.png)
+
+**Generation mix by country:**
+
+![Electricity Generation Mix by Country](electricity_generation_mix_by_country.png)
+
+**Case Study — France:** low-carbon through nuclear, not renewables
+
+![Electricity Generation Mix — France](electricity_generation_mix_france.png)
+
+**Case Study — Portugal:** diversified renewable-driven transition
 
 ### Section 3 — Generation vs. Demand
-- Import dependency analysis across countries
-- Year-over-year renewable growth rates
-- Average YoY growth rate ranking (2000–2025)
+
+**Are countries generating what they consume?**
+
+![Electricity Generation vs Demand by Country](electricity_generation_vs_demand_by_country.png)
+
+![Electricity Net Imports by Country](electricity_net_imports_by_country.png)
+
+**How fast is each country transitioning?**
+
+![Average Renewable Growth Rate by Country (2000–2025)](average_renewable_growth_rate_by_country.png)
 
 ---
 
@@ -106,7 +130,8 @@ Charts produced:
 ├── energy-dashboard.html                     # Custom HTML/CSS dashboard (GitHub Pages)
 ├── europe_energy_transition_clean.csv        # Dataset A: Europe macro
 ├── country_energy_transition_clean.csv       # Dataset B: Country-level
-└── europe_yearly_full_release_long_format.csv  # Source data (Ember Energy)
+├── europe_yearly_full_release_long_format.csv  # Source data (Ember Energy)
+└── *.png                                     # Exported analysis charts
 ```
 
 ---
