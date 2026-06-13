@@ -1,0 +1,417 @@
+area,year,variable,value
+France,2000,Bioenergy,2.95
+France,2000,Coal,32.07
+France,2000,Gas,13.67
+France,2000,Hydro,76.94
+France,2000,Nuclear,493.12
+France,2000,Other renewables,0.61
+France,2000,Solar,0.01
+France,2000,Wind,0.060000000000000005
+France,2001,Bioenergy,3.38
+France,2001,Coal,24.25
+France,2001,Gas,17.94
+France,2001,Hydro,86.0
+France,2001,Nuclear,498.67999999999995
+France,2001,Other renewables,0.57
+France,2001,Solar,0.01
+France,2001,Wind,0.15
+France,2002,Bioenergy,3.59
+France,2002,Coal,27.95
+France,2002,Gas,21.700000000000003
+France,2002,Hydro,69.56
+France,2002,Nuclear,515.99
+France,2002,Other renewables,0.58
+France,2002,Solar,0.01
+France,2002,Wind,0.32
+France,2003,Bioenergy,3.81
+France,2003,Coal,30.96
+France,2003,Gas,22.830000000000002
+France,2003,Hydro,67.61
+France,2003,Nuclear,519.96
+France,2003,Other renewables,0.58
+France,2003,Solar,0.01
+France,2003,Wind,0.46
+France,2004,Bioenergy,3.89
+France,2004,Coal,28.67
+France,2004,Gas,24.77
+France,2004,Hydro,68.28999999999999
+France,2004,Nuclear,527.39
+France,2004,Other renewables,0.5499999999999999
+France,2004,Solar,0.01
+France,2004,Wind,0.69
+France,2005,Bioenergy,3.99
+France,2005,Coal,32.34
+France,2005,Gas,27.12
+France,2005,Hydro,58.95
+France,2005,Nuclear,530.87
+France,2005,Other renewables,0.5599999999999999
+France,2005,Solar,0.01
+France,2005,Wind,1.13
+France,2006,Bioenergy,3.98
+France,2006,Coal,26.92
+France,2006,Gas,25.6
+France,2006,Hydro,64.55
+France,2006,Nuclear,529.55
+France,2006,Other renewables,0.54
+France,2006,Solar,0.01
+France,2006,Wind,2.56
+France,2007,Bioenergy,4.42
+France,2007,Coal,28.799999999999997
+France,2007,Gas,25.9
+France,2007,Hydro,65.96000000000001
+France,2007,Nuclear,518.0
+France,2007,Other renewables,0.5499999999999999
+France,2007,Solar,0.02
+France,2007,Wind,4.79
+France,2008,Bioenergy,4.67
+France,2008,Coal,27.13
+France,2008,Gas,25.74
+France,2008,Hydro,73.12
+France,2008,Nuclear,516.96
+France,2008,Other renewables,0.5499999999999999
+France,2008,Solar,0.05
+France,2008,Wind,6.69
+France,2009,Bioenergy,4.91
+France,2009,Coal,25.770000000000003
+France,2009,Gas,24.38
+France,2009,Hydro,65.98
+France,2009,Nuclear,487.21000000000004
+France,2009,Other renewables,0.54
+France,2009,Solar,0.2
+France,2009,Wind,9.41
+France,2010,Bioenergy,5.23
+France,2010,Coal,27.509999999999998
+France,2010,Gas,27.990000000000002
+France,2010,Hydro,72.08
+France,2010,Nuclear,504.71999999999997
+France,2010,Other renewables,0.57
+France,2010,Solar,0.73
+France,2010,Wind,11.709999999999999
+France,2011,Bioenergy,5.93
+France,2011,Coal,20.45
+France,2011,Gas,34.69
+France,2011,Hydro,53.800000000000004
+France,2011,Nuclear,520.3199999999999
+France,2011,Other renewables,0.64
+France,2011,Solar,2.74
+France,2011,Wind,14.549999999999999
+France,2012,Bioenergy,6.2299999999999995
+France,2012,Coal,25.240000000000002
+France,2012,Gas,26.759999999999998
+France,2012,Hydro,70.37
+France,2012,Nuclear,500.36
+France,2012,Other renewables,0.6
+France,2012,Solar,5.21
+France,2012,Wind,17.85
+France,2013,Bioenergy,6.66
+France,2013,Coal,27.97
+France,2013,Gas,21.580000000000002
+France,2013,Hydro,84.39
+France,2013,Nuclear,497.14
+France,2013,Other renewables,0.59
+France,2013,Solar,6.090000000000001
+France,2013,Wind,18.94
+France,2014,Bioenergy,7.050000000000001
+France,2014,Coal,13.25
+France,2014,Gas,15.48
+France,2014,Hydro,75.03
+France,2014,Nuclear,513.55
+France,2014,Other renewables,0.66
+France,2014,Solar,7.52
+France,2014,Wind,20.38
+France,2015,Bioenergy,7.67
+France,2015,Coal,13.96
+France,2015,Gas,24.82
+France,2015,Hydro,65.24000000000001
+France,2015,Nuclear,513.62
+France,2015,Other renewables,0.6799999999999999
+France,2015,Solar,9.1
+France,2015,Wind,25.150000000000002
+France,2016,Bioenergy,8.87
+France,2016,Coal,12.06
+France,2016,Gas,41.23
+France,2016,Hydro,71.73
+France,2016,Nuclear,475.35
+France,2016,Other renewables,0.71
+France,2016,Solar,10.21
+France,2016,Wind,25.21
+France,2017,Bioenergy,9.18
+France,2017,Coal,15.120000000000001
+France,2017,Gas,47.79
+France,2017,Hydro,59.0
+France,2017,Nuclear,470.04
+France,2017,Other renewables,0.77
+France,2017,Solar,10.469999999999999
+France,2017,Wind,29.04
+France,2018,Bioenergy,9.83
+France,2018,Coal,9.75
+France,2018,Gas,35.85
+France,2018,Hydro,76.41
+France,2018,Nuclear,484.6
+France,2018,Other renewables,0.72
+France,2018,Solar,13.08
+France,2018,Wind,33.56
+France,2019,Bioenergy,10.17
+France,2019,Coal,4.28
+France,2019,Gas,46.18
+France,2019,Hydro,66.97
+France,2019,Nuclear,469.57
+France,2019,Other renewables,0.72
+France,2019,Solar,14.149999999999999
+France,2019,Wind,40.86
+France,2020,Bioenergy,10.42
+France,2020,Coal,3.6799999999999997
+France,2020,Gas,41.94
+France,2020,Hydro,74.38
+France,2020,Nuclear,420.94
+France,2020,Other renewables,0.73
+France,2020,Solar,15.57
+France,2020,Wind,47.65
+France,2021,Bioenergy,11.32
+France,2021,Coal,6.430000000000001
+France,2021,Gas,39.36
+France,2021,Hydro,70.36
+France,2021,Nuclear,448.3
+France,2021,Other renewables,0.69
+France,2021,Solar,18.06
+France,2021,Wind,43.87
+France,2022,Bioenergy,11.73
+France,2022,Coal,5.05
+France,2022,Gas,55.5
+France,2022,Hydro,55.290000000000006
+France,2022,Nuclear,357.65000000000003
+France,2022,Other renewables,0.73
+France,2022,Solar,23.47
+France,2022,Wind,46.35
+France,2023,Bioenergy,11.86
+France,2023,Coal,1.9200000000000002
+France,2023,Gas,35.81
+France,2023,Hydro,66.67999999999999
+France,2023,Nuclear,403.4
+France,2023,Other renewables,0.69
+France,2023,Solar,26.939999999999998
+France,2023,Wind,60.209999999999994
+France,2024,Bioenergy,12.58
+France,2024,Coal,1.2
+France,2024,Gas,21.32
+France,2024,Hydro,83.78
+France,2024,Nuclear,448.16999999999996
+France,2024,Other renewables,0.6699999999999999
+France,2024,Solar,29.3
+France,2024,Wind,53.519999999999996
+France,2025,Bioenergy,12.07
+France,2025,Coal,2.05
+France,2025,Gas,20.28
+France,2025,Hydro,69.83
+France,2025,Nuclear,460.86
+France,2025,Other renewables,0.6699999999999999
+France,2025,Solar,37.4
+France,2025,Wind,54.650000000000006
+Portugal,2000,Bioenergy,4.31
+Portugal,2000,Coal,48.39
+Portugal,2000,Gas,23.66
+Portugal,2000,Hydro,37.519999999999996
+Portugal,2000,Nuclear,0.0
+Portugal,2000,Other renewables,0.27
+Portugal,2000,Solar,0.0
+Portugal,2000,Wind,0.56
+Portugal,2001,Bioenergy,4.28
+Portugal,2001,Coal,43.16
+Portugal,2001,Gas,22.86
+Portugal,2001,Hydro,44.49
+Portugal,2001,Nuclear,0.0
+Portugal,2001,Other renewables,0.32
+Portugal,2001,Solar,0.0
+Portugal,2001,Wind,0.8200000000000001
+Portugal,2002,Bioenergy,4.7
+Portugal,2002,Coal,48.6
+Portugal,2002,Gas,28.89
+Portugal,2002,Hydro,24.92
+Portugal,2002,Nuclear,0.0
+Portugal,2002,Other renewables,0.32
+Portugal,2002,Solar,0.0
+Portugal,2002,Wind,1.15
+Portugal,2003,Bioenergy,4.39
+Portugal,2003,Coal,45.85
+Portugal,2003,Gas,24.42
+Portugal,2003,Hydro,49.61
+Portugal,2003,Nuclear,0.0
+Portugal,2003,Other renewables,0.28
+Portugal,2003,Solar,0.0
+Portugal,2003,Wind,1.58
+Portugal,2004,Bioenergy,4.99
+Portugal,2004,Coal,48.12
+Portugal,2004,Gas,37.85
+Portugal,2004,Hydro,31.96
+Portugal,2004,Nuclear,0.0
+Portugal,2004,Other renewables,0.26
+Portugal,2004,Solar,0.0
+Portugal,2004,Wind,2.66
+Portugal,2005,Bioenergy,5.33
+Portugal,2005,Coal,48.33
+Portugal,2005,Gas,43.19
+Portugal,2005,Hydro,15.01
+Portugal,2005,Nuclear,0.0
+Portugal,2005,Other renewables,0.22
+Portugal,2005,Solar,0.0
+Portugal,2005,Wind,5.62
+Portugal,2006,Bioenergy,5.21
+Portugal,2006,Coal,45.870000000000005
+Portugal,2006,Gas,37.84
+Portugal,2006,Hydro,33.730000000000004
+Portugal,2006,Nuclear,0.0
+Portugal,2006,Other renewables,0.28
+Portugal,2006,Solar,0.0
+Portugal,2006,Wind,8.98
+Portugal,2007,Bioenergy,5.84
+Portugal,2007,Coal,38.95
+Portugal,2007,Gas,41.21
+Portugal,2007,Hydro,31.69
+Portugal,2007,Nuclear,0.0
+Portugal,2007,Other renewables,0.63
+Portugal,2007,Solar,0.06
+Portugal,2007,Wind,12.690000000000001
+Portugal,2008,Bioenergy,5.93
+Portugal,2008,Coal,35.9
+Portugal,2008,Gas,48.72
+Portugal,2008,Hydro,21.8
+Portugal,2008,Nuclear,0.0
+Portugal,2008,Other renewables,0.61
+Portugal,2008,Solar,0.13
+Portugal,2008,Wind,18.46
+Portugal,2009,Bioenergy,6.32
+Portugal,2009,Coal,39.02
+Portugal,2009,Gas,44.5
+Portugal,2009,Hydro,25.049999999999997
+Portugal,2009,Nuclear,0.0
+Portugal,2009,Other renewables,0.54
+Portugal,2009,Solar,0.48
+Portugal,2009,Wind,22.93
+Portugal,2010,Bioenergy,7.49
+Portugal,2010,Coal,20.38
+Portugal,2010,Gas,42.76
+Portugal,2010,Hydro,46.349999999999994
+Portugal,2010,Nuclear,0.0
+Portugal,2010,Other renewables,0.5700000000000001
+Portugal,2010,Solar,0.6
+Portugal,2010,Wind,26.35
+Portugal,2011,Bioenergy,8.559999999999999
+Portugal,2011,Coal,28.869999999999997
+Portugal,2011,Gas,43.73
+Portugal,2011,Hydro,33.83
+Portugal,2011,Nuclear,0.0
+Portugal,2011,Other renewables,0.62
+Portugal,2011,Solar,0.8200000000000001
+Portugal,2011,Wind,26.85
+Portugal,2012,Bioenergy,9.440000000000001
+Portugal,2012,Coal,41.9
+Portugal,2012,Gas,34.15
+Portugal,2012,Hydro,17.99
+Portugal,2012,Nuclear,0.0
+Portugal,2012,Other renewables,0.48
+Portugal,2012,Solar,1.25
+Portugal,2012,Wind,32.839999999999996
+Portugal,2013,Bioenergy,9.11
+Portugal,2013,Coal,35.36
+Portugal,2013,Gas,21.59
+Portugal,2013,Hydro,41.0
+Portugal,2013,Nuclear,0.0
+Portugal,2013,Other renewables,0.6000000000000001
+Portugal,2013,Solar,1.43
+Portugal,2013,Wind,35.86
+Portugal,2014,Bioenergy,8.94
+Portugal,2014,Coal,35.019999999999996
+Portugal,2014,Gas,20.02
+Portugal,2014,Hydro,45.629999999999995
+Portugal,2014,Nuclear,0.0
+Portugal,2014,Other renewables,0.62
+Portugal,2014,Solar,1.85
+Portugal,2014,Wind,35.489999999999995
+Portugal,2015,Bioenergy,9.16
+Portugal,2015,Coal,43.53
+Portugal,2015,Gas,31.21
+Portugal,2015,Hydro,25.59
+Portugal,2015,Nuclear,0.0
+Portugal,2015,Other renewables,0.5900000000000001
+Portugal,2015,Solar,2.3600000000000003
+Portugal,2015,Wind,34.28
+Portugal,2016,Bioenergy,8.27
+Portugal,2016,Coal,34.02
+Portugal,2016,Gas,33.88
+Portugal,2016,Hydro,42.34
+Portugal,2016,Nuclear,0.0
+Portugal,2016,Other renewables,0.45999999999999996
+Portugal,2016,Solar,2.34
+Portugal,2016,Wind,33.59
+Portugal,2017,Bioenergy,8.81
+Portugal,2017,Coal,40.14
+Portugal,2017,Gas,51.69
+Portugal,2017,Hydro,16.14
+Portugal,2017,Nuclear,0.0
+Portugal,2017,Other renewables,0.6
+Portugal,2017,Solar,2.71
+Portugal,2017,Wind,33.519999999999996
+Portugal,2018,Bioenergy,8.58
+Portugal,2018,Coal,32.589999999999996
+Portugal,2018,Gas,42.36
+Portugal,2018,Hydro,33.620000000000005
+Portugal,2018,Nuclear,0.0
+Portugal,2018,Other renewables,0.62
+Portugal,2018,Solar,2.74
+Portugal,2018,Wind,34.25
+Portugal,2019,Bioenergy,9.87
+Portugal,2019,Coal,16.25
+Portugal,2019,Gas,50.71000000000001
+Portugal,2019,Hydro,25.91
+Portugal,2019,Nuclear,0.0
+Portugal,2019,Other renewables,0.65
+Portugal,2019,Solar,3.9400000000000004
+Portugal,2019,Wind,40.16
+Portugal,2020,Bioenergy,11.16
+Portugal,2020,Coal,6.949999999999999
+Portugal,2020,Gas,51.85
+Portugal,2020,Hydro,35.59
+Portugal,2020,Nuclear,0.0
+Portugal,2020,Other renewables,0.65
+Portugal,2020,Solar,5.07
+Portugal,2020,Wind,36.230000000000004
+Portugal,2021,Bioenergy,12.13
+Portugal,2021,Coal,2.4299999999999997
+Portugal,2021,Gas,47.2
+Portugal,2021,Hydro,36.11
+Portugal,2021,Nuclear,0.0
+Portugal,2021,Other renewables,0.55
+Portugal,2021,Solar,6.79
+Portugal,2021,Wind,40.05
+Portugal,2022,Bioenergy,12.98
+Portugal,2022,Coal,0.0
+Portugal,2022,Gas,54.93
+Portugal,2022,Hydro,20.66
+Portugal,2022,Nuclear,0.0
+Portugal,2022,Other renewables,0.6
+Portugal,2022,Solar,11.12
+Portugal,2022,Wind,41.85
+Portugal,2023,Bioenergy,12.04
+Portugal,2023,Coal,0.0
+Portugal,2023,Gas,33.0
+Portugal,2023,Hydro,38.129999999999995
+Portugal,2023,Nuclear,0.0
+Portugal,2023,Other renewables,0.67
+Portugal,2023,Solar,16.34
+Portugal,2023,Wind,41.65
+Portugal,2024,Bioenergy,11.68
+Portugal,2024,Coal,0.0
+Portugal,2024,Gas,17.54
+Portugal,2024,Hydro,46.39
+Portugal,2024,Nuclear,0.0
+Portugal,2024,Other renewables,0.62
+Portugal,2024,Solar,22.09
+Portugal,2024,Wind,44.68
+Portugal,2025,Bioenergy,10.29
+Portugal,2025,Coal,0.0
+Portugal,2025,Gas,24.8
+Portugal,2025,Hydro,44.870000000000005
+Portugal,2025,Nuclear,0.0
+Portugal,2025,Other renewables,0.5900000000000001
+Portugal,2025,Solar,26.189999999999998
+Portugal,2025,Wind,40.41
