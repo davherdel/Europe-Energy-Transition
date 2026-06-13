@@ -97,6 +97,7 @@ Analyzed 10 countries selected for strategic coverage:
 ![Electricity Generation Mix — France](electricity_generation_mix_france.png)
 
 **Case Study — Portugal:** diversified renewable-driven transition
+![Electricity Generation Mix — Portugal](electricity_generation_mix_portugal.png)
 
 ### Section 3 — Generation vs. Demand
 
