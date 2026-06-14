@@ -3,13 +3,17 @@
 
 > **End-to-end data analytics project** — from raw dataset to two interactive dashboards (Tableau and a custom HTML/CSS build) — analyzing 25 years of electricity generation across Europe to surface insights on renewable adoption, fossil fuel dependency, and energy independence.
 
+🌐 **[Explore the live HTML dashboard → Energy Transition Monitor](https://davherdel.github.io/Europe-Energy-Transition/energy-dashboard.html)**
+
+[![European Energy Transition Monitor — Live HTML Dashboard](energy_transition_monitor.png)](https://davherdel.github.io/Europe-Energy-Transition/energy-dashboard.html)
+
 ---
 
 ## 👤 About This Project
 
 **David Hernandez | Data Analyst**  
 📍 Lisbon, Portugal · April 2026  
-🌐 [Live HTML Dashboard — GitHub Pages](https://davherdel.github.io/europe-energy-transition/energy-dashboard.html)  
+🌐 [Live HTML Dashboard — GitHub Pages](https://davherdel.github.io/Europe-Energy-Transition/energy-dashboard.html)  
 🔗 [Interactive Dashboard — Tableau Public](https://public.tableau.com/app/profile/david.hernandez6239/viz/EuropeanEnergyTransition/Dashboard1-Overview)
 
 This project was built independently as part of a professional data analytics portfolio, applying the full analytics workflow: **data wrangling → exploratory analysis → visualization → storytelling**.
@@ -97,6 +101,7 @@ Analyzed 10 countries selected for strategic coverage:
 ![Electricity Generation Mix — France](electricity_generation_mix_france.png)
 
 **Case Study — Portugal:** diversified renewable-driven transition
+
 ![Electricity Generation Mix — Portugal](electricity_generation_mix_portugal.png)
 
 ### Section 3 — Generation vs. Demand
@@ -153,7 +158,7 @@ The analysis culminates in **two interactive dashboards**:
 
 A standalone web dashboard with KPI cards, time-period filters, and interactive charts — designed, coded, and deployed independently on GitHub Pages.
 
-🌐 **[Live HTML Dashboard](https://davherdel.github.io/europe-energy-transition/energy-dashboard.html)**  
+🌐 **[Live HTML Dashboard](https://davherdel.github.io/Europe-Energy-Transition/energy-dashboard.html)**  
 🔗 **[View on Tableau Public](https://public.tableau.com/app/profile/david.hernandez6239/viz/EuropeanEnergyTransition/Dashboard1-Overview)**
 
 ---
