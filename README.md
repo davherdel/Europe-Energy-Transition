@@ -1,5 +1,5 @@
 # 🔋 European Energy Transition — Decarbonization Trends & Grid Reliability
-### `Python` · `Pandas` · `Matplotlib` · `Tableau` · `HTML & CSS` · `Data Analytics` · `EDA` · `Data Visualization`
+### `Python` · `Pandas` · `SQL` · `Matplotlib` · `Tableau` · `HTML & CSS` · `Data Analytics` · `EDA` · `Data Visualization`
 
 > **End-to-end data analytics project** — from raw dataset to two interactive dashboards (Tableau and a custom HTML/CSS build) — analyzing 25 years of electricity generation across Europe to surface insights on renewable adoption, fossil fuel dependency, and energy independence.
 
@@ -43,6 +43,7 @@ The goal: move beyond headline numbers and assess the **effectiveness** of the e
 |---|---|
 | **Python 3** | Core analysis language |
 | **Pandas** | Data cleaning, transformation, feature engineering |
+| **SQL** | Querying, filtering & aggregating the raw electricity dataset |
 | **Matplotlib** | Exploratory and presentation-quality charts |
 | **Tableau Public** | Interactive 3-dashboard data product |
 | **HTML & CSS** | Custom-built web dashboard hosted on GitHub Pages |
@@ -69,6 +70,7 @@ The goal: move beyond headline numbers and assess the **effectiveness** of the e
 
 ### Section 1 — Data Cleaning & Feature Engineering
 - Filtered dataset to Europe-only, 2000–2025, electricity generation category
+- Used **SQL** to query, filter and aggregate the raw dataset into analysis-ready tables
 - Removed aggregated variables to prevent double counting
 - Engineered key metrics: `renewable_share`, `fossil_share`, `renewable_yoy_growth`
 - Exported two clean datasets: **Europe macro** and **country-level detail**
